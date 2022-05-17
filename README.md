@@ -14,4 +14,4 @@ Very short python program that downloads high resolution images of album covers 
  https://open.spotify.com/track/track_id
 
 ## How to Use
-Simply run the file and the highest resolution images of the album covers available will be downloaded to the same directory as the program.
+Simply run the file and the highest resolution images of the album covers available will be downloaded to the same directory as the program. Sample files are added for reference but note that you *must* obtain your own spotify api credentionals or it will not work.
