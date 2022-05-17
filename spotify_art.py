@@ -2,7 +2,6 @@ import spotipy
 import requests
 from spotipy.oauth2 import SpotifyClientCredentials
 
-
 if __name__ == "__main__":
     creds = open('client_credentials.txt', 'r')
     id, secret = creds.readlines()
